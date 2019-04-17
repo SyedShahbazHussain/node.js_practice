@@ -1,0 +1,19 @@
+{
+  "name": "node.js_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedShahbazHussain/node.js_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedShahbazHussain/node.js_practice/issues"
+  },
+  "homepage": "https://github.com/SyedShahbazHussain/node.js_practice#readme"
+}
