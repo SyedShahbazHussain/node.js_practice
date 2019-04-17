@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SyedShahbazHussain/node.js_practice/issues"
   },
-  "homepage": "https://github.com/SyedShahbazHussain/node.js_practice#readme"
+  "homepage": "https://github.com/SyedShahbazHussain/node.js_practice#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
